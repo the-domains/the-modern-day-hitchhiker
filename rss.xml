@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Modern-day Hitchhiker]]></title>
         <description><![CDATA[The Modern-day Hitchhiker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moderndayhitchhiker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 21:25:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 21:49:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moderndayhitchhiker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Houston's Via Colori - Street Art at Its Best]]></title>
-            <description><![CDATA[<article><h1>Houston's Via Colori - Street Art at Its Best</h1><p>Houston's Via Colori art festival is an annual event in downtown Houston that benefits The Center for Hearing and Speech. Each year 200 artists create unique street paintings using pastel chalk - street paintings that you will only be able to view for two days, and then they become mere memories.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35be29ba-40e4-4c1b-9d05-d544f29bd4f8.jpg"></article>]]></description>
-            <link>undefinedhoustons-via-colori-street-art-at-its-best/index.html</link>
+            <description><![CDATA[<article><h1>Houston's Via Colori - Street Art at Its Best</h1><p>Houston's Via Colori art festival is an annual event in downtown Houston that benefits The Center for Hearing and Speech. Each year 200 artists create unique street paintings using pastel chalk - street paintings that you will only be able to view for two days, and then they become mere memories.</p></article>]]></description>
+            <link>https://thegrid.ai/moderndayhitchhiker/houstons-via-colori-street-art-at-its-best/index.html</link>
             <guid isPermaLink="false">8883ffb9-404f-4251-a4f1-5733a7ea711d</guid>
-            <pubDate>Sun, 13 Mar 2016 21:23:40 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 21:46:32 GMT</pubDate>
         </item>
     </channel>
 </rss>

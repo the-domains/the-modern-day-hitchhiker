@@ -1,0 +1,28 @@
+name: The Modern Day Hitchhiker
+favicon: null
+layout_spectrum: 0.9849160031881183
+typography_spectrum: 0.03860650514252484
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3143728787545115
+  lightness: 0.9497746429406106
+  saturation: 0.4047095940914005
+  rhythmicContrast: 0.1620821573305875
+purpose: []
